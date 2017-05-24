@@ -1,4 +1,3 @@
 source.dir=src
 web.dir-=webcontent
 war.dir=war
-lib.dir=lib
