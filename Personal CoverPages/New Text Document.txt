@@ -1,5 +1,5 @@
 source.dir=src
 web.dir-=webapp
 war.dir=war
-
+lib.dir=lib
 
